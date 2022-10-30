@@ -1,0 +1,16 @@
+h1{
+    color:black;
+    font-size: 90%;
+    font-style: inherit;
+    padding-left: 100%;
+    padding-right: ;
+
+}
+div{
+    color:white;
+    font-size: 50px;
+    font-style: initial;
+    padding-left: 5%;
+    padding-top: 5%;
+    background-color: black;
+}
